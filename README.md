@@ -16,3 +16,5 @@ For machines running windows you will need to:
 4) Compile with "javac GPA.java"
 5) Run code with "java GPA.java
 
+## Other Info
+This is a very basic program but there is room to expand it. If you have any ideas about making a graphical interface, feel free to get into contact with me.
